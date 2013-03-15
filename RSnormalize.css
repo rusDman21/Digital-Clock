@@ -209,7 +209,7 @@ ul, ol, li {
 
 .num {
   position: absolute;
-  /*background: rgba(100, 100, 100, 1);*/
+  background: rgba(100, 100, 100, 1);
   width: 100px;
   height: 189px;
 }
